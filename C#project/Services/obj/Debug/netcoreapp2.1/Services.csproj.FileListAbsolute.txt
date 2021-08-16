@@ -1,0 +1,14 @@
+d:\Users\User\Documents\C#project\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+d:\Users\User\Documents\C#project\Services\bin\Debug\netcoreapp2.1\Services.runtimeconfig.json
+d:\Users\User\Documents\C#project\Services\bin\Debug\netcoreapp2.1\Services.runtimeconfig.dev.json
+d:\Users\User\Documents\C#project\Services\bin\Debug\netcoreapp2.1\Services.dll
+d:\Users\User\Documents\C#project\Services\bin\Debug\netcoreapp2.1\Services.pdb
+d:\Users\User\Documents\C#project\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+d:\Users\User\Documents\C#project\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+d:\Users\User\Documents\C#project\Services\obj\Debug\netcoreapp2.1\Services.RazorAssemblyInfo.cache
+d:\Users\User\Documents\C#project\Services\obj\Debug\netcoreapp2.1\Services.RazorAssemblyInfo.cs
+d:\Users\User\Documents\C#project\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+d:\Users\User\Documents\C#project\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+d:\Users\User\Documents\C#project\Services\obj\Debug\netcoreapp2.1\Services.RazorTargetAssemblyInfo.cache
+d:\Users\User\Documents\C#project\Services\obj\Debug\netcoreapp2.1\Services.dll
+d:\Users\User\Documents\C#project\Services\obj\Debug\netcoreapp2.1\Services.pdb

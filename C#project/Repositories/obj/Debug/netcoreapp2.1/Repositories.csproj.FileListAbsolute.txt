@@ -1,0 +1,11 @@
+d:\Users\User\Documents\C#project\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+d:\Users\User\Documents\C#project\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+d:\Users\User\Documents\C#project\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+d:\Users\User\Documents\C#project\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+d:\Users\User\Documents\C#project\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+d:\Users\User\Documents\C#project\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+d:\Users\User\Documents\C#project\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+d:\Users\User\Documents\C#project\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json
+d:\Users\User\Documents\C#project\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+d:\Users\User\Documents\C#project\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+d:\Users\User\Documents\C#project\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb

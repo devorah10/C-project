@@ -1,0 +1,14 @@
+d:\Users\User\Documents\C#project\FlaightAPI\bin\Debug\netcoreapp2.1\FlaightAPI.deps.json
+d:\Users\User\Documents\C#project\FlaightAPI\bin\Debug\netcoreapp2.1\FlaightAPI.runtimeconfig.json
+d:\Users\User\Documents\C#project\FlaightAPI\bin\Debug\netcoreapp2.1\FlaightAPI.runtimeconfig.dev.json
+d:\Users\User\Documents\C#project\FlaightAPI\bin\Debug\netcoreapp2.1\FlaightAPI.dll
+d:\Users\User\Documents\C#project\FlaightAPI\bin\Debug\netcoreapp2.1\FlaightAPI.pdb
+d:\Users\User\Documents\C#project\FlaightAPI\obj\Debug\netcoreapp2.1\FlaightAPI.csprojAssemblyReference.cache
+d:\Users\User\Documents\C#project\FlaightAPI\obj\Debug\netcoreapp2.1\FlaightAPI.csproj.CoreCompileInputs.cache
+d:\Users\User\Documents\C#project\FlaightAPI\obj\Debug\netcoreapp2.1\FlaightAPI.RazorAssemblyInfo.cache
+d:\Users\User\Documents\C#project\FlaightAPI\obj\Debug\netcoreapp2.1\FlaightAPI.RazorAssemblyInfo.cs
+d:\Users\User\Documents\C#project\FlaightAPI\obj\Debug\netcoreapp2.1\FlaightAPI.AssemblyInfoInputs.cache
+d:\Users\User\Documents\C#project\FlaightAPI\obj\Debug\netcoreapp2.1\FlaightAPI.AssemblyInfo.cs
+d:\Users\User\Documents\C#project\FlaightAPI\obj\Debug\netcoreapp2.1\FlaightAPI.RazorTargetAssemblyInfo.cache
+d:\Users\User\Documents\C#project\FlaightAPI\obj\Debug\netcoreapp2.1\FlaightAPI.dll
+d:\Users\User\Documents\C#project\FlaightAPI\obj\Debug\netcoreapp2.1\FlaightAPI.pdb

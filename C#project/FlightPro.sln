@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlightPro", "FlightPro\FlightPro.csproj", "{E23ED7BF-6432-4C3F-802A-2BA297A944EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repositories", "Repositories\Repositories.csproj", "{F61F358F-7ADF-4CC1-8716-8C7A823E25E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{A03AB20D-BC45-44D9-AC64-A5BD96ACD33E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E23ED7BF-6432-4C3F-802A-2BA297A944EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E23ED7BF-6432-4C3F-802A-2BA297A944EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E23ED7BF-6432-4C3F-802A-2BA297A944EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E23ED7BF-6432-4C3F-802A-2BA297A944EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F61F358F-7ADF-4CC1-8716-8C7A823E25E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F61F358F-7ADF-4CC1-8716-8C7A823E25E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F61F358F-7ADF-4CC1-8716-8C7A823E25E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F61F358F-7ADF-4CC1-8716-8C7A823E25E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A03AB20D-BC45-44D9-AC64-A5BD96ACD33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03AB20D-BC45-44D9-AC64-A5BD96ACD33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03AB20D-BC45-44D9-AC64-A5BD96ACD33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03AB20D-BC45-44D9-AC64-A5BD96ACD33E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {036ACFBA-506E-4619-A060-B8761D2DF829}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+d:\Users\User\Documents\C#project\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+d:\Users\User\Documents\C#project\Service\bin\Debug\netcoreapp2.1\Service.dll
+d:\Users\User\Documents\C#project\Service\bin\Debug\netcoreapp2.1\Service.pdb
+d:\Users\User\Documents\C#project\Service\obj\Debug\netcoreapp2.1\Service.csprojAssemblyReference.cache
+d:\Users\User\Documents\C#project\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+d:\Users\User\Documents\C#project\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+d:\Users\User\Documents\C#project\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+d:\Users\User\Documents\C#project\Service\obj\Debug\netcoreapp2.1\Service.dll
+d:\Users\User\Documents\C#project\Service\obj\Debug\netcoreapp2.1\Service.pdb
+d:\Users\User\Documents\C#project\Service\bin\Debug\netcoreapp2.1\Repositories.dll
+d:\Users\User\Documents\C#project\Service\bin\Debug\netcoreapp2.1\Repositories.pdb
+d:\Users\User\Documents\C#project\Service\obj\Debug\netcoreapp2.1\Service.csproj.CopyComplete
